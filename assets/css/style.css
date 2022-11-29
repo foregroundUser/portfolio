@@ -928,6 +928,19 @@ border-radius: 20px;
   margin-bottom: 10px;
 }
 
+.divider {
+  width: 100%;
+  margin-top: 24px;
+  border: 1px solid #7a7164;
+}
+.new-product-list {
+  margin-top: 32px;
+}
+.new-product-list img {
+  width: 100%;
+  margin-top: 24px;
+}
+
 .project-item { display: none; }
 
 .project-item.active {
