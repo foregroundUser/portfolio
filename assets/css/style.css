@@ -322,7 +322,9 @@ main {
   background: var(--bg-gradient-onyx);
   border-radius: 20px;
 }
-
+.avatar-box img {
+border-radius: 20px;
+}
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
