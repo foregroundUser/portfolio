@@ -1407,7 +1407,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
   
   .service-icon-desktop {
-    margin-bottom: 0;
+    margin-bottom: 0; 
     margin-top: 5px;
     /* width: 200px; */
   }
@@ -1415,7 +1415,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: 40px;
   }
   .service-icon-desktop svg path {
-    fill: #FFBC5E;
+    fill: #FFBC5E !important;
   }
   .service-content-box { text-align: left; }
 
