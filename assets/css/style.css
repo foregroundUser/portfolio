@@ -1405,7 +1405,18 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-bottom: 0;
     margin-top: 5px;
   }
-
+  
+  .service-icon-desktop {
+    margin-bottom: 0;
+    margin-top: 5px;
+    /* width: 200px; */
+  }
+  .service-icon-desktop svg {
+    width: 40px;
+  }
+  .service-icon-desktop svg path {
+    fill: #FFBC5E;
+  }
   .service-content-box { text-align: left; }
 
   /* testimonials */
